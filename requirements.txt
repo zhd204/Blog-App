@@ -46,6 +46,7 @@ Pillow==8.3.1
 prettytable==2.1.0
 proxies==1.6
 proxy==0.0.1
+psycopg2-binary==2.9.3
 pycparser==2.21
 PyJWT==2.3.0
 pyOpenSSL==21.0.0
